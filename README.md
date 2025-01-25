@@ -1,2 +1,3 @@
-# pl-1-prog
-PL/1 programming
+# PL/1 programming
+
+Samples of PL/I source codes
